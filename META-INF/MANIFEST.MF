@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Specification-Title: CobbleLvlCap
+Specification-Vendor: Goombler
+Specification-Version: 1
+Implementation-Title: CobbleLvlCap
+Implementation-Version: 1.0.0
+Implementation-Vendor: Goombler
+

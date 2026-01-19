@@ -1,0 +1,19 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.Goombler.cobblelvlcap.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+    "MovePCPokemonToPartyHandlerMixin",
+    "PokemonAddExperienceMixin",
+    "PlayerPartyStoreAddMixin",
+    "PlayerPCStoreAddMixin",
+    "ActiveTradeMixin",
+    "CommandManagerMixin"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
